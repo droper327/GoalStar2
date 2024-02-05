@@ -1,5 +1,8 @@
 import streamlit as st
 import requests
+pip install beautifulsoup4
+ 
+
 from bs4 import BeautifulSoup
 
 def get_website_content(url):
